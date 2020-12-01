@@ -1,0 +1,7 @@
+C:\Users\pxyz6n\source\repos\Prep\RecursionPractise\bin\Debug\RecursionPractise.exe.config
+C:\Users\pxyz6n\source\repos\Prep\RecursionPractise\bin\Debug\RecursionPractise.exe
+C:\Users\pxyz6n\source\repos\Prep\RecursionPractise\bin\Debug\RecursionPractise.pdb
+C:\Users\pxyz6n\source\repos\Prep\RecursionPractise\obj\Debug\RecursionPractise.csprojAssemblyReference.cache
+C:\Users\pxyz6n\source\repos\Prep\RecursionPractise\obj\Debug\RecursionPractise.csproj.CoreCompileInputs.cache
+C:\Users\pxyz6n\source\repos\Prep\RecursionPractise\obj\Debug\RecursionPractise.exe
+C:\Users\pxyz6n\source\repos\Prep\RecursionPractise\obj\Debug\RecursionPractise.pdb
