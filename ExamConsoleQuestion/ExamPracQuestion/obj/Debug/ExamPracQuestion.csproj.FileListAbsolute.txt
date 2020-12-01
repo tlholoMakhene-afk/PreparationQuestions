@@ -1,0 +1,7 @@
+C:\Users\pxyz6n\Downloads\PRG152_Prac\ExamConsoleQuestion\TK_ExamPrac\bin\Debug\ExamPracQuestion.exe.config
+C:\Users\pxyz6n\Downloads\PRG152_Prac\ExamConsoleQuestion\TK_ExamPrac\bin\Debug\ExamPracQuestion.exe
+C:\Users\pxyz6n\Downloads\PRG152_Prac\ExamConsoleQuestion\TK_ExamPrac\bin\Debug\ExamPracQuestion.pdb
+C:\Users\pxyz6n\Downloads\PRG152_Prac\ExamConsoleQuestion\TK_ExamPrac\obj\Debug\ExamPracQuestion.csprojAssemblyReference.cache
+C:\Users\pxyz6n\Downloads\PRG152_Prac\ExamConsoleQuestion\TK_ExamPrac\obj\Debug\ExamPracQuestion.csproj.CoreCompileInputs.cache
+C:\Users\pxyz6n\Downloads\PRG152_Prac\ExamConsoleQuestion\TK_ExamPrac\obj\Debug\ExamPracQuestion.exe
+C:\Users\pxyz6n\Downloads\PRG152_Prac\ExamConsoleQuestion\TK_ExamPrac\obj\Debug\ExamPracQuestion.pdb
